@@ -2,6 +2,7 @@
 
 ## Checklist:
 - [ ] fill out the self evaluation and Reflection
+- [ ] setup github pages for this project
 - [ ] submit the repository link on Canvas
 
 ## Self-Evaluation:
